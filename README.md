@@ -1,5 +1,5 @@
 # Fun-bot
-Simple and easy image and fun bot with Discord.js v12
+Simple and easy image and fun bot with Discord.js v12 and discord-image-generation
 
 # Frist:
 Go to config.json file then change 
