@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord-image-generation": "^1.4.7",
+    "discord.js": "^12.5.1"
+  }
+}
